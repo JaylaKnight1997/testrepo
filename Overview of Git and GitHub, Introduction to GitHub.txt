@@ -1,0 +1,103 @@
+Getting Started with Git and GitHub
+Overview of Git and Github (Module 1) 
+
+Version Control
+-Tracks changes to source code
+-Recovers older versions
+-Facilitates collaboration 
+
+Git and GitHub
+-Free and open-source software under the general public license or GNU
+-Distributed Version Control System or DVCS: Easy accessibility of project copies 
+-Distributed aspect makes it popular Version Control System or VCS available. 
+Version Control Systems are widely used for Code, Images, Documents, and Other file types 
+
+Git: Feature Branching to organize and manage development 
+You can use Git without a web interface, using your command line interface(CLI), but GitHub is one of the most popular web hosted services for Git repositories 
+Others include, GitLab, BitBucket, and BeanStalk
+
+Git and GitHub: Basic Terms
+-The Secure Shell (SSH) Protocol: Method to secure remote login from one computer to another
+-Repository: Contains project folders that are setup for version control
+-Fork: Copy of a repository 
+-Pull Request: To request for review and approval of changes before they become final
+-Working directory: Contains files and subdirectories on your computer that are associated with the Git repository
+-Commit: Snapshot of the project's current state at a specific point and time. Along with the description of the changes made
+-Branch: Separate line of development that allows you to work on features or fixes independently 
+-Merge: Combines changes from one branch into another. Typically merging a feature branch into the main branch
+-Clone: Local copy of the remote Git repository on your computer
+
+RECAP/SUMMARY
+-Git: Versatile version control system for tracking changes in code and collaborating with others
+-Due to DVCS, Git enables to revert to the previous state
+-Branching strategies: Feature Branching
+-GitHub: Popular web-hosted services for Git repositories
+-Basic terms: SSH Protocol, Repository, Fork, Pull Request, Working Directory, Commit, Branch. Merge, and Clone
+
+
+
+Introduction to GitHub (Module 1)
+
+Background of Git
+-Large software projects need a way to track and control source code updates
+-Linux need automated source-version control
+-Key characteristics include:
+  +Strong support for non-linear development
+  +Distributed development
+  +Compatibility with exisiting systems and protocols
+  +Efficient handling of large projects
+  +Cryptograaphic authentication of history
+  +Pluggable merge strategies 
+
+Git Repository Model
+What is special about the Git Repository model?
+-Distributed version-control system
+-Tracks source code
+-Coordinates among programmers
+   +Track changes
+   +Supports non-linear workflows
+-Created in 2005 by Linus Torvalds
+
+What is Git?
+-Git is a distributed version-control system
+   +Tracks changes to content
+   +Provides a central point for collaboration
+-Git allows for centralized administration 
+   +Teams have controlled access scope
+   +The main branch should always correspond to deployable code
+-IBM Cloud is built around open-source tools including Git repositories 
+
+What is GitHub?
+-GitHub is an online hosting service for Git repositorieS
+   +Hosted by a subsidiary of MicroSoft
+   +Offers free, professional and enterprise accounts
+   +As of August 2019, GitHub had over 100M repositories
+-What is a Repository?
+   +A data structure for storing documents, including application source code
+   +A repository can track and maintain version-control 
+
+What is GitLab?
+GitLab is:
+-A DevOps platform, delivered as a single application
+-Provides access to Git Repositories
+-Provides source code management
+
+GitLab enables developers to:
+-Collaborate
+-Work from a local copy
+-Branch and merge code
+-Streamline testing and delivery with CI/CD (Continuous Integration, Continuous Delivery)
+
+RECAP/SUMMARY
+-GitHub is the online hosting service for Git repositories
+-Repositories
+    +Store documents, including source code
+    +Enable version control
+-Git
+    +Distributed version-control system
+    +Focused on tracking source code during development 
+    +Supports non-linear workflows 
+
+
+
+
