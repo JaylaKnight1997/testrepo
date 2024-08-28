@@ -1,0 +1,64 @@
+Getting Started with Git and GitHub (Module 1)
+Course Introduction 
+
+Git and Github
+-Version control and collaboration, Completing projects effectively 
+-Essential skill for software development careers
+
+Who can benefit from this course?
+-Anyone who wants to learn version control and collaboration (No prior background knowledge is required).  
+-Software Engineers
+-Application Developers
+-Data Scientists
+-Data Engineers
+
+What you will learn
+-Describe distributed version control with Git and Github
+-Create repositories
+-Share and integrate changes
+-Build a Github portfolio 
+
+Module 1: Git and GitHub Fundamentals
+Basics of Git and Github
+-Repositories
+-Editing and pushing files
+-GitHub branches
+
+Hands-on Activities
+-Creating a GitHub account and a project repository 
+-Creating branches and merging a pull request on the web user interface
+
+Module 2: Branches, Git Commands, and Managing GitHub Projects
+Git Workflow and Commands
+-Using branches
+-Forking and cloning repositories 
+-Collaborating 
+
+Hands-on Activities 
+-Cloning and Forking in a GitHub project
+
+Module 3: Final Project and Peer Review
+Final Project: Part 1- GitHub UI (user interface) and Part 2- Git CLI (Git command line interface)
+You will apply your knowledge by
+-Creating a GitHub project 
+-Adding, commiting, and pushing files
+-Sharing the project publicly 
+-Review peers' projects 
+
+Additionally, you will explore an Optional Topic on GitHub Copilot  
+
+Module 4: [Optional] Working with GitHub from Your Windows Desktops
+-Install Git Bash
+-Generate SSH Key
+-Add the key to GitHub
+
+GET THE MOST FROM YOUR COURSE
+1. Watch all videos
+2. Complete hands-on activities 
+3. Attempt all quizzes
+4. Complete the Final Project
+5. Use discussion forums 
+
+
+
+
